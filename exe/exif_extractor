@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'exif_extractor/cli'
+ExifExtractor::CLI.start
